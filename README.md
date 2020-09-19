@@ -1,2 +1,2 @@
 # ML-model
-KNN classification using wine quality dataset 
+KNN classification model using wine quality dataset 
